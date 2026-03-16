@@ -28,15 +28,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊
 
-![Sakib's GitHub stats](https://camo.githubusercontent.com/00ffb96dba6946034a8b55ff1e27b5e676c53de046275127b093f4ef2f128f55/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374)
+![](https://camo.githubusercontent.com/00ffb96dba6946034a8b55ff1e27b5e676c53de046275127b093f4ef2f128f55/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374)
 
 ---
 
 ### 🌐 Connect With Me
 
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-blue?logo=facebook)]([https://facebook.com/](https://www.fiverr.com/sfsakibb/))
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-blue?logo=fiverr)](https://www.fiverr.com/sfsakibb/)
+[![Behance](https://img.shields.io/badge/Behance-red?logo=Behance)](https://www.behance.net/sfsakib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
