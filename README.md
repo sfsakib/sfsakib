@@ -2,7 +2,7 @@
 <h1 align="left">Hi , I'm Sf Sakib 👋</h1>
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Designer;WordPress+Developer;E-Commerce+Specialist;Dropshipping+Expert;Elementor+Expert;WooCommerce+Expert;&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Designer;WordPress+Developer;E-Commerce+Specialist;Dropshipping+Expert;Elementor+Expert;WooCommerce+Expert;&left=true&width=500&height=50">
 </p>
 
 ---
